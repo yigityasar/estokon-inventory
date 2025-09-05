@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Stokon App", "E-Stokon App\E-Stokon App.csproj", "{47802165-0C56-4F54-8A31-4D3DCE6ED46E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Çözüm Öğeleri", "Çözüm Öğeleri", "{AC80F682-3D55-C8F8-4895-A4A9EDD49434}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "E-Stokon App Setup", "E-Stokon App Setup\E-Stokon App Setup.vdproj", "{FA81E1F8-A7C9-951A-E5BC-929933B7ABD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47802165-0C56-4F54-8A31-4D3DCE6ED46E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47802165-0C56-4F54-8A31-4D3DCE6ED46E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47802165-0C56-4F54-8A31-4D3DCE6ED46E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47802165-0C56-4F54-8A31-4D3DCE6ED46E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA81E1F8-A7C9-951A-E5BC-929933B7ABD6}.Debug|Any CPU.ActiveCfg = Debug
+		{FA81E1F8-A7C9-951A-E5BC-929933B7ABD6}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FA81E1F8-A7C9-951A-E5BC-929933B7ABD6} = {AC80F682-3D55-C8F8-4895-A4A9EDD49434}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F09AB0E8-6703-4415-8BD7-A8710885679E}
+	EndGlobalSection
+EndGlobal
