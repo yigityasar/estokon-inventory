@@ -1,31 +1,31 @@
-# estokon-inventory
+# E-Stokon App | Inventory Tracking Program for E-Commerce Sellers
 Inventory &amp; Stock Management System developed as a graduation project using C# Windows Forms and Microsoft Access.
 
 # E-Stokon App
 
-📦 **E-Stokon App**, C# Windows Forms ve Microsoft Access kullanılarak geliştirilmiş bir **stok ve ürün yönetim sistemi**dir.  
-Bu uygulama mezuniyet projesi kapsamında geliştirilmiştir.
+📦 **E-Stokon App** is an inventory and stock management system developed using C# Windows Forms and Microsoft Access.  
+This application was developed as a graduation project.
 
 ---
 
-## 🚀 Özellikler / Features
-- Ürün ekleme, güncelleme ve silme / Add, update, and delete products
-- Kategorilerle ürün yönetimi / Product management with categories
-- Fiyatlandırma ve kâr marjı hesaplama / Pricing and profit margin calculation
-- Satış ekranı ile stok azaltma / Stock reduction via sales screen
-- Kombin (ürün grubu) yönetimi / Combo (product group) management
-- Microsoft Access (.accdb) veritabanı desteği / Microsoft Access database support
+## 🚀 Features
+- Add, update, and delete products
+- Product management with categories
+- Pricing and profit margin calculation
+- Stock reduction via sales screen
+- Combo (product group) management
+- Microsoft Access database support
 
 ---
 
-## 🛠️ Teknolojiler / Technologies
+## 🛠️ Technologies
 - **C# Windows Forms**
 - **Microsoft Access (OleDb)**
 - .NET Framework 4.x
 
 ---
 
-## 📷 Ekran Görüntüleri / Screenshots
+## 📷 Screenshots
 ![Ekran Görüntüsü 1](images/ss1.png)
 ![Ekran Görüntüsü 2](images/ss2.png)
 ![Ekran Görüntüsü 3](images/ss3.png)
@@ -33,7 +33,7 @@ Bu uygulama mezuniyet projesi kapsamında geliştirilmiştir.
 
 ---
 
-## 🔧 Kurulum / Installation
+## 🔧 Installation
 1. Bu repoyu klonla / Clone this repository:
    ```bash
    git clone https://github.com/yigityasar/estokon-inventory
